@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kotlin_belajar</string>
+    <string name="menu_dashboard">Kotlin_belajar</string>
+    <string name="menu_leaderboard">Kotlin_belajar</string>
+    <string name="menu_store">Kotlin_belajar</string>
+    <string name="menu_profile">Kotlin_belajar</string>
+
+</resources>
